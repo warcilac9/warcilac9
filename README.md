@@ -2,7 +2,7 @@
 ### <h1 align="center">Hello, Im Wilbert Arcila</h1>
 
 <h3 align="center">Game developer part of Team Brije. specialized in c# and Unity Technologies.</h3>
-<img align="right" alt="Coding" width="250" border="10" src="./img2/OIP.jpg">
+<img align="right" alt="Coding" width="250" border="10" src="./img/OIP.jpg">
 
 - I'm currently learning Javascript, html, c#, c++ and css.
 
